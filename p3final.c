@@ -1,10 +1,3 @@
-/*
-Write a program find whether a given number is a prime number.
-int input_number();
-int is_prime(int n);
-void output(int n, int is_prime);
-*/
-
 #include <stdio.h>
 #include <math.h>
 int input()
